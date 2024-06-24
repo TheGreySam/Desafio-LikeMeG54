@@ -18,6 +18,7 @@
   "homepage": "https://github.com/TheGreySam/Desafio-LikeMeG54#readme",
   "dependencies": {
     "axios": "^1.7.2",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5"
   }
 }
