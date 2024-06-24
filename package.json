@@ -1,0 +1,19 @@
+{
+  "name": "desafio-likemeg54",
+  "version": "1.0.0",
+  "description": "desafio like me para Desafio Latam",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGreySam/Desafio-LikeMeG54.git"
+  },
+  "author": "Sebastián Gómez Letelier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGreySam/Desafio-LikeMeG54/issues"
+  },
+  "homepage": "https://github.com/TheGreySam/Desafio-LikeMeG54#readme"
+}
